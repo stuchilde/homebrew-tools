@@ -1,4 +1,4 @@
-class Tellme < Formula
+class Tools < Formula
     desc "a cli tool to get information."
     homepage "https://github.com/stuchilde/tellme"
     url "https://github.com/stuchilde/tellme/archive/refs/tags/v1.0.0.tar.gz"
