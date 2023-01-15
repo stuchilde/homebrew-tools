@@ -1,4 +1,3 @@
-```
 # homebrew-tools
 
 tools used in MacOS
