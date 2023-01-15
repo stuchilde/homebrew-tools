@@ -1,7 +1,7 @@
 class Tools < Formula
     desc "a cli tool to get information."
     homepage "https://github.com/stuchilde/tellme"
-    url "https://github.com/stuchilde/tellme/archive/refs/tags/v1.0.0.tar.gz"
+    url "https://github.com/stuchilde/tellme/archive/refs/tags/v1.0.1.tar.gz"
     sha256 "4aafd7ba2879a5429c79cfb87218fa6763a882f5b94148b988a59a6ba2011605"
   
     depends_on "go" => :build
