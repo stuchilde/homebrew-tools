@@ -8,7 +8,7 @@ class Tools < Formula
   
     def install
       system "go", "build", "-o", bin/"tellme"
-      system "cp", "bin/IP2LOCATION-LITE-DB3.BIN", bin/"IP2LOCATION-LITE-DB3.BIN"
+      system "cp", "IP2LOCATION-LITE-DB3.BIN", bin/"IP2LOCATION-LITE-DB3.BIN"
     end
   
     test do
